@@ -6,7 +6,6 @@ Passionné par l'écosystème de l'intelligence artificielle, l'optimisation mat
 
 ## 🚀 À propos de moi
 - 🎓 **Profil :** Développeur IA.
-- 🔭 **Projet phare :** Créateur de **LM Router V1** (Projet en cours non public), un routeur logiciel local permettant de gérer les requêtes vers de multiples backends d'IA (OpenAI, LM Studio, Ollama, Groq) avec un système de chiffrement par clé AES.
 
 ## 💻 Stack Technique & Outils
 * **IA & LLMs :** Copilot, Gemini, Gemma, OpenAI, Ollama, LM Studio.
