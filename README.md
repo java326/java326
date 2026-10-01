@@ -12,9 +12,6 @@ Passionné par l'écosystème de l'intelligence artificielle, l'optimisation mat
 * **IA & LLMs :** Copilot, Gemini, Gemma, OpenAI, Ollama, LM Studio.
 * **Infrastructure & Hardware :** GPU Computing
 
-## 📊 Statistiques
-https://github-readme-stats.vercel.app/api?username=java326&show_icons=true&theme=transparent&hide_border=true
-https://github-readme-stats.vercel.app/api/top-langs/?username=java326&layout=compact&theme=transparent&hide_border=true
 
 
 ## 📫 Me contacter
