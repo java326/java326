@@ -1,16 +1,21 @@
-## Hi there 👋
+# Salut, je suis java326 👋
+### Développeur IA
+#### Les projets contiennent du code généré par l'intelligence artificielle.
 
-<!--
-**java326/java326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionné par l'écosystème de l'intelligence artificielle, l'optimisation matérielle et le développement backend. Je construis des outils pour faciliter l'intégration, le routage et le déploiement et l'utilisation quotidienne des LLMs.
 
-Here are some ideas to get you started:
+## 🚀 À propos de moi
+- 🎓 **Profil :** Développeur IA.
+- 🔭 **Projet phare :** Créateur de **LM Router V1** (Projet en cours non public), un routeur logiciel local permettant de gérer les requêtes vers de multiples backends d'IA (OpenAI, LM Studio, Ollama, Groq) avec un système de chiffrement par clé AES.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Stack Technique & Outils
+* **IA & LLMs :** Copilot, Gemini, Gemma, OpenAI, Ollama, LM Studio.
+* **Infrastructure & Hardware :** GPU Computing
+
+## 📊 Statistiques
+[Les stats GitHub de java326](https://github-readme-stats.vercel.app/api?username=java326&show_icons=true&theme=transparent&hide_border=true)
+[Les langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=java326&layout=compact&theme=transparent&hide_border=true)
+
+
+## 📫 Me contacter
+- GitHub : [@java326](https://github.com/java326)
