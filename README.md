@@ -13,8 +13,8 @@ Passionné par l'écosystème de l'intelligence artificielle, l'optimisation mat
 * **Infrastructure & Hardware :** GPU Computing
 
 ## 📊 Statistiques
-[Les stats GitHub de java326](https://github-readme-stats.vercel.app/api?username=java326&show_icons=true&theme=transparent&hide_border=true)
-[Les langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=java326&layout=compact&theme=transparent&hide_border=true)
+(https://github-readme-stats.vercel.app/api?username=java326&show_icons=true&theme=transparent&hide_border=true)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=java326&layout=compact&theme=transparent&hide_border=true)
 
 
 ## 📫 Me contacter
