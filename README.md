@@ -11,6 +11,9 @@ Passionné par l'écosystème de l'intelligence artificielle, l'optimisation mat
 * **IA & LLMs :** Copilot, Gemini, Gemma, OpenAI, Ollama, LM Studio.
 * **Infrastructure & Hardware :** GPU Computing
 
+## 🌐 Autre lien 
+  - MakerWorld: [@java326](https://makerworld.com/fr/@java326)
+- Printabels: [@java326](https://www.printables.com/@azertyA1_2136605)
 
 
 ## 📫 Me contacter
