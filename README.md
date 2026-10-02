@@ -18,4 +18,3 @@ Passionné par l'écosystème de l'intelligence artificielle, l'optimisation mat
 
 ## 📫 Me contacter
 - GitHub : [@java326](https://github.com/java326)
-- Mail : java326@alwaysdata.net
