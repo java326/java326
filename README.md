@@ -9,7 +9,7 @@ Passionné par l'écosystème de l'intelligence artificielle, l'optimisation mat
 
 ## 💻 Stack Technique & Outils
 * **IA & LLMs :** Copilot, Gemini, Gemma, OpenAI, Ollama, LM Studio.
-* **Infrastructure & Hardware :** GPU Computing
+* **Infrastructure & Hardware :** CPU-GPU Computing (Voir Hugging Face)
 
 ## 🌐 Autre lien 
 - Makerworld: [@java326](https://makerworld.com/fr/@java326)
