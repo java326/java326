@@ -12,8 +12,9 @@ Passionné par l'écosystème de l'intelligence artificielle, l'optimisation mat
 * **Infrastructure & Hardware :** GPU Computing
 
 ## 🌐 Autre lien 
-  - MakerWorld: [@java326](https://makerworld.com/fr/@java326)
-- Printabels: [@java326](https://www.printables.com/@azertyA1_2136605)
+- Makerworld: [@java326](https://makerworld.com/fr/@java326)
+- Printables: [@java326](https://www.printables.com/@azertyA1_2136605)
+- Hugging Face [@java326](https://huggingface.co/java326)
 
 
 ## 📫 Me contacter
